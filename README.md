@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=200&section=header&text=Hi%20there,%20I'm%20Luthfi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer+💻;PHP+%26+Laravel+Enthusiast+🐘;TypeScript+%26+Modern+JavaScript+🚀;Building+clean+and+scalable+solutions+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;TypeScript+%26+Modern+JavaScript;Building+Clean+%26+Scalable+Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <p>
         🔭 <b>Currently working on:</b> Developing web applications with <b>Laravel, PHP, JavaScript, and MySQL</b> with a focus on practical, scalable, and user-friendly solutions.<br/><br/>
         🌱 <b>Currently learning:</b> <b>TypeScript</b>, modern JavaScript architectures, and best practices in full-stack development.<br/><br/>
@@ -36,8 +36,8 @@
         ⚡ <b>Fun fact:</b> I enjoy turning complex ideas into functional, elegant applications and learning by building!
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation GIF" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/2VAoS1KiY0YdAq7Acc/giphy.gif" width="220" alt="Furina GIF" />
     </td>
   </tr>
 </table>
